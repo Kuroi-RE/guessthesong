@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="TebakLagu">
+  <!--
+    Penanda sementara, bukan logo final. design.md Bagian 13 mencatat logo dan
+    favicon sebagai [PERLU KONFIRMASI PEMILIK], dan menetapkan bentuk sementara
+    ini: tiga segmen tangga petunjuk di atas latar gelap. Lebar segmennya tidak
+    sama, mengikuti aturan motif di design.md Bagian 3.
+  -->
+  <rect width="32" height="32" fill="#0c0b0a"/>
+  <rect x="5" y="13" width="4" height="6" fill="#8a5f1e"/>
+  <rect x="11" y="11" width="6" height="10" fill="#8a5f1e"/>
+  <rect x="19" y="8" width="8" height="16" fill="#e4a84c"/>
+</svg>
